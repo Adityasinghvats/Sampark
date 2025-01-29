@@ -1,0 +1,1 @@
+- Socket.io is a wrapper around websockets , it provide fallback to xhr request, until websocket connection is established we can use ajax.

@@ -1,0 +1,21 @@
+{
+  "name": "livechat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["Sokcet.io", "Websockets", "Express", "LiveChat"],
+  "author": "Aditya Kumar",
+  "license": "ISC",
+  "description": "A simple live chat app",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
